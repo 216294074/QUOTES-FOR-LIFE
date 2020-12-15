@@ -1,0 +1,25 @@
+h2 { text-align: center;
+    color: teal;
+}
+body { background-color : pink;}
+h2 {font-family : serif;}
+button { 
+    width: 100px;
+height: 40px;
+    background-color: lightblue;
+ display: block;
+margin:auto;}
+
+button:hover{
+    background-color: teal;
+    color: white;}
+h3{ text-align: center;
+color: teal;
+    font-family: sens-seerif;
+}
+.quote {
+    color: teal;
+    text-align: center;
+    font-family: courier;
+    
+   }
