@@ -1,1 +1,0 @@
-# QUOTES-FOR-LIFE
